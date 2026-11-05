@@ -1,6 +1,6 @@
 ---
 layout: post
-A Solution to Ruby Classes With Too Many Responsibilities
+title: A Solution to Ruby Classes With Too Many Responsibilities
 ---
 
 A while ago I was adding a stall detection feature to my LLM chat app. There were several places for the logic to go.
